@@ -1,4 +1,4 @@
-# patricksimpson.github.io
+# patsimpson.github.io
 project 1
 Patrick Simpson
 The styles I applied to my webpage are:
